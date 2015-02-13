@@ -1,2 +1,1 @@
-# dark-corners
-A repository for UX/UI-related issues.
+# ALA's Dark Corners: UX/UI-related issues.
